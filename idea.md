@@ -8,7 +8,6 @@
 
 - First Name
 - Last Name
-- Email
 - Date Of Birth
 ```
 #### Address Information
@@ -17,5 +16,13 @@
 - City
 - State
 - Country
+
+```
+
+#### Authentication Information
+
+```
+- Email
+- Password
 
 ```
