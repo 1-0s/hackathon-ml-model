@@ -1,11 +1,21 @@
 # IDEATION
 
-### Registration System
-#### SignIn
+## Registration System
+### SignIn
 
+#### Basic Information
 ```
+
 - First Name
 - Last Name
 - Email
 - Date Of Birth
+```
+#### Address Information
+```
+- House Address
+- City
+- State
+- Country
+
 ```
