@@ -1,2 +1,2 @@
 # AI Health Care Recommendation System
-[Ideation Plan](idea.md)
+## [Ideation Plan](idea.md)
