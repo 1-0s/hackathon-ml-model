@@ -1,0 +1,443 @@
+painchest
+shortnessof breath
+dizziness
+asthenia
+fall
+syncope
+vertigo
+sweat^UMLS:C0700590_sweatingincreased
+palpitation
+nausea
+anginapectoris
+pressurechest
+polyuria
+polydypsia
+orthopnea
+rale
+unresponsiveness
+mentalstatus changes
+vomiting
+labored breathing
+feelingsuicidal
+suicidal
+hallucinationsauditory
+feelinghopeless
+weepiness
+sleeplessness
+motorretardation
+irritablemood
+blackout
+mooddepressed
+hallucinationsvisual
+worry
+agitation
+tremor
+intoxication
+verbalauditory hallucinations
+energyincreased
+difficulty
+nightmare
+unableto concentrate
+homelessness
+hypokinesia
+dyspneaon exertion
+chesttightness
+cough
+fever
+decreasedtranslucency
+productivecough
+pleuriticpain
+yellowsputum
+breathsounds decreased
+chill
+rhonchus
+greensputum
+non-productivecough
+wheezing
+haemoptysis
+distressrespiratory
+tachypnea
+malaise
+nightsweat
+jugularvenous distention
+dyspnea
+dysarthria
+speechslurred
+facialparesis
+hemiplegia
+seizure
+numbness
+symptomaggravating factors
+pain chest
+st segment elevation
+sweat^UMLS:C0700590_sweating increased
+shortness of breath
+st segment depression
+angina pectoris
+pressure chest
+t wave inverted
+chest tightness
+presence of q wave
+chest discomfort
+bradycardia
+pain
+nonsmoker
+erythema
+decreased translucency
+hepatosplenomegaly
+pruritus
+diarrhea
+abscess bacterial
+swelling
+apyrexial
+dysuria
+hematuria
+renal angle tenderness
+lethargy
+hyponatremia
+hemodynamically stable
+distress respiratory
+difficulty passing urine
+mental status changes
+consciousness clear
+guaiac positive
+monoclonal
+ecchymosis
+tumor cell invasion
+haemorrhage
+pallor
+fatigue
+heme positive
+pain back
+orthostasis
+arthralgia
+transaminitis
+sputum purulent
+hypoxemia
+hypercapnia
+patient non compliance
+unconscious state
+bedridden^UMLS:C0741453_bedridden
+facial paresis
+abdominal tenderness
+unsteady gait
+hallucinations auditory
+hyperkalemia
+urgency of micturition
+ascites
+hypotension
+breath sounds decreased
+enuresis
+speech slurred
+asterixis
+muscle twitch
+sleepy
+headache
+lightheadedness
+foodintolerance
+numbnessof hand
+generaldiscomfort
+drowsiness
+stiffness
+unsteadygait
+prostatism
+drowsiness^UMLS:C0234450_sleepy
+weight gain
+fatigue^UMLS:C0557875_tired
+motor retardation
+mass of body structure
+feeling suicidal
+feeling hopeless
+irritable mood
+has religious belief
+nervousness
+hallucinations visual
+formication
+mood depressed
+hot flush
+lesion
+cushingoid facies^UMLS:C0878661_cushingoid habitus
+emphysematous change
+decreased body weight
+hoarseness
+thicken
+night sweat
+spontaneous rupture of membranes
+
+pleuritic pain
+productive cough
+muscle hypotonia^UMLS:C0241938_hypotonic
+redness
+hypesthesia
+hyperacusis
+scratch marks
+sore to touch
+burning sensation
+satiety early
+throbbing sensation quality
+sensory discomfort
+general discomfort
+constipation
+pain abdominal
+heartburn
+breech presentation
+cyanosis
+pain in lower limb
+cardiomegaly
+clonus
+non-productive cough
+unwell
+anorexia
+syncope^UMLS:C0312422_blackout^UMLS:C0424533_historyof - blackout
+anosmia
+metastatic lesion
+food intolerance
+hemianopsia homonymous
+hematocrit decreased
+neck stiffness
+yellow sputum
+cicatrisation
+hypometabolism
+aura
+myoclonus
+gurgle
+wheelchair bound
+jugular venous distention
+dyspnea on exertion
+left atrial hypertrophy
+oliguria
+catatonia
+unhappy
+paresthesia
+gravida 0
+lung nodule
+distended abdomen
+ache
+macerated skin
+heavy feeling
+rest pain
+sinus rhythm
+verbal auditory hallucinations
+withdraw
+energy increased
+behavior hyperactive
+terrify
+photopsia
+giddy mood
+disturbed family
+hypersomnia
+hyperhidrosis disorder
+mydriasis
+extrapyramidal sign
+loose associations
+exhaustion
+snore
+r wave feature
+overweight
+systolic murmur
+asymptomatic
+splenomegaly
+bleeding of vagina
+macule
+photophobia
+painful swallowing
+cachexia
+hypocalcemia result
+hypothermia
+atypia
+general unsteadiness
+throat sore
+snuffle
+hacking cough
+stridor
+paresis
+aphagia
+focal seizures
+abnormal sensation
+stupor
+fremitus
+Stahli's line
+stinging sensation
+paralyse
+hirsutism
+sniffle
+distendedabdomen
+bradykinesia
+outof breath
+urgeincontinence
+vision blurred
+room spinning
+rambling speech
+clumsiness
+decreased stool caliber
+hematochezia
+egophony
+cicatrisation^UMLS:C0241158_scar tissue
+neologism
+decompensation
+stool color yellow
+rigor - temperature-associated observation
+paraparesis
+urge incontinence
+moody
+fear of falling
+spasm
+hyperventilation
+excruciating pain
+gag
+posturing
+pulse absent
+dysesthesia
+polymyalgia
+passed stones
+qt interval prolonged
+ataxia
+Heberden's node
+hepatomegaly
+sciatica
+frothy sputum
+mass in breast
+retropulsion
+estrogen use
+hypersomnolence
+underweight^UMLS:C1319518_underweight
+dullness
+red blotches
+colic abdominal
+hypokalemia
+out of breath
+hunger
+prostate tender
+pain foot
+urinary hesitation
+disequilibrium
+flushing
+indifferent mood
+urinoma
+hypoalbuminemia
+pustule
+slowing of urinary stream
+extreme exhaustion
+no status change
+breakthrough pain
+green sputum
+pansystolic murmur
+systolic ejection murmur
+stuffy nose
+barking cough
+rapid shallow breathing
+noisy respiration
+nasal discharge present
+frail
+cystic lesion
+symptom aggravating factors
+projectile vomiting
+heavy legs
+titubation
+dysdiadochokinesia
+achalasia
+side pain
+monocytosis
+posterior rhinorrhea
+incoherent
+lameness^UMLS:C1456822_claudication
+clammy skin
+mediastinal shift
+nausea and vomiting
+awakening early
+tenesmus
+fecaluria
+pneumatouria
+unable to concentrate
+todd paralysis
+alcoholic withdrawal symptoms
+myalgia
+dyspareunia
+poor dentition
+floppy
+inappropriate affect
+poor feeding
+moan
+welt
+tinnitus
+hydropneumothorax
+superimposition
+feeling strange
+uncoordination
+absences finding
+tonic seizures
+debilitation
+impaired cognition
+drool
+pin-point pupils
+tremor resting
+groggy
+adverse reaction^UMLS:C0879626_adverse effect
+abdominal bloating
+fatigability
+para 2
+abortion
+intermenstrual heavy bleeding
+previous pregnancies 2
+primigravida
+abnormallyhard consistency
+proteinemia
+unconsciousstate
+burningsensation
+pain neck
+dizzy spells
+shooting pain
+hyperemesis
+milky
+regurgitates after swallowing
+lip smacking
+phonophobia
+rolling of eyes
+ambidexterity
+pulsus paradoxus
+gravida 10
+bruit
+breath-holding spell
+scleral icterus
+retch
+blanch
+elation
+verbally abusive behavior
+transsexual
+behavior showing increased motor activity
+scar tissue
+coordination abnormal
+choke
+bowel sounds decreased
+numbness of hand
+no known drug allergies
+low back pain
+charleyhorse
+sedentary
+feels hot/feverish
+flare
+None
+pericardial friction rub
+hoard
+panic
+cardiovascularfinding^UMLS:C1320716_cardiovascular event
+soft tissue swelling
+rhd positive
+para 1
+nasal flaring
+sneeze
+hypertonicity
+Murphy's sign
+flatulence
+gasping for breath
+feces in rectum
+abnormally hard consistency
+prodrome
+hypoproteinemia
+alcohol binge episode
+abdomen acute
+air fluid level
+catching breath
+large-for-dates fetus
+immobile
+homicidal thoughts
